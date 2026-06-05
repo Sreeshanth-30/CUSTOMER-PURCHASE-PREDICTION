@@ -1,0 +1,11 @@
+Name,Age,Gender,Income,WebsiteVisit,PreviousPurchase,Purchase
+John,25,Male,30000,5,1,No
+Alice,32,Female,50000,15,3,Yes
+Bob,45,Male,70000,20,5,Yes
+Emma,22,Female,25000,3,0,No
+David,38,Male,60000,18,4,Yes
+Sophia,29,Female,45000,10,2,Yes
+James,50,Male,80000,25,6,Yes
+Olivia,24,Female,28000,4,1,No
+Michael,41,Male,65000,16,3,Yes
+Lily,27,Female,40000,8,2,No
